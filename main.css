@@ -1,0 +1,18 @@
+body{
+  background-color: #b5cad1;
+  color: #54656b;
+  text-align: center;
+  font-family: Tahoma;
+}
+h1{
+  font-size: 1.5em;
+  text-decoration: underline;
+}
+.narrative{
+  font-size: 1.2em;
+  text-decoration: bold;
+  margin: 20px;
+}
+p{
+  font-size: .8em;
+}
